@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Alexey Sinitskikh and I'm a Game Developer!
 
 <!--
 **aXeLGTO/aXeLGTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
