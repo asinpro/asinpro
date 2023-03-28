@@ -1,4 +1,5 @@
 ### Hi there 👋 My name is Alexey Sinitskikh and I'm a Game Developer!
+I like game development and I am very pleased to see the result of my work. For 10+ years of work, I have participated in the creation of games of various genres and scales - from social and mobile Casual games to AAA giants. I used different languages and technologies in my work.
 
 <!--
 **aXeLGTO/aXeLGTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
