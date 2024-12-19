@@ -1,5 +1,7 @@
 I like game development and I am very pleased to see the result of my work. For 10+ years of work, I have participated in the creation of games of various genres and scales - from social and mobile Casual games to AAA giants. I used different languages and technologies in my work.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/676412b68fe51199da2b8d75?variant=dark)](https://roadmap.sh)
+
 <!--
 **aXeLGTO/aXeLGTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
